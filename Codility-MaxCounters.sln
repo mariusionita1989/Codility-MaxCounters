@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-MaxCounters", "Codility-MaxCounters\Codility-MaxCounters.csproj", "{FAD931D9-B1BD-437A-9AD3-345F9C04DCDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-MaxCountersTests", "Codility-MaxCountersTests\Codility-MaxCountersTests.csproj", "{A22F05EA-9A5B-47CB-BD3F-FD10040A02CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD931D9-B1BD-437A-9AD3-345F9C04DCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD931D9-B1BD-437A-9AD3-345F9C04DCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD931D9-B1BD-437A-9AD3-345F9C04DCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD931D9-B1BD-437A-9AD3-345F9C04DCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22F05EA-9A5B-47CB-BD3F-FD10040A02CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22F05EA-9A5B-47CB-BD3F-FD10040A02CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22F05EA-9A5B-47CB-BD3F-FD10040A02CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22F05EA-9A5B-47CB-BD3F-FD10040A02CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC745577-816D-4629-B94D-A52A4824D927}
+	EndGlobalSection
+EndGlobal
